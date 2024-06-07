@@ -279,7 +279,7 @@ main>section>p {
 
 aside {
     background-color: rgb(var(--color-light));
-    background-image: url("/assets/img/logo-upm.png");
+    background-image: url("../img/logo-upm.png");
     background-repeat: no-repeat;
     background-position: bottom right;
     background-size: 100%;
