@@ -141,7 +141,7 @@ faq:
     answer: >
       Los **viernes de 16:00 a 20:00**. Dicho esto, hay que tener en
       cuenta que **el curso es online y parcialmente asíncrono**.
-      Online, porque no es necesrio desplazarse al Campus Sur de la
+      Online, porque no es necesario desplazarse al Campus Sur de la
       Politécnica para recibir la formación, y parcialmente síncrono
       porque además de la docencia síncrona, se proporcionarán recursos
       online para que el estudiante pueda estudiarlos a su propio ritmo
