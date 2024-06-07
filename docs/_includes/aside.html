@@ -1,0 +1,9 @@
+<aside>
+    <h2>Detalles del título</h2>
+    <ul class="features_list">
+        {% for feature in page.features %}
+        <li><span><i class="{{ feature.icon }}"></i> {{ feature.title }}</span><span>{{ feature.value }}</span></li>
+        {% endfor %}
+    </ul>
+    <a href="{{ page.register.url }}" class="hidden-in-big-screen">{{ page.register.title }}</a>
+</aside>

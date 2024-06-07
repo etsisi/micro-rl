@@ -1,0 +1,17 @@
+<section id="about" class="active">
+    <h2>{{ page.description.title }}</h2>
+    {{ page.description.content | markdownify }}
+
+    <h2>Contacto</h2>
+
+    <ul>
+    {% for member in page.contact_info %}
+        <li class="box">
+            <h3>{{ member.title }}</h3>
+            <p>{{ member.name }}</p>
+            <p><i class="fas fa-envelope"></i><a href="mailto:{{ member.email }}">{{ member.email }}</a></p>
+            <p><i class="fas fa-phone-alt"></i><a href="tel:{{ member.phone }}">{{ member.phone }}</a></p>
+        </li>
+    {% endfor %}
+    </ul>
+  </section>

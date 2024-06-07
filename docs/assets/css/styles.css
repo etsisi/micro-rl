@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700,800,900|Poppins:300,400,500,600,700,800,900');
+
+:root {
+    --color-black: 0, 0, 0;
+    --color-dark: 26, 26, 26;
+    --color-dark-grey: 51, 51, 51;
+    --color-grey: 102, 102, 102;
+    --color-light-grey: 188, 188, 188;
+    --color-light: 241, 241, 241;
+    --color-white: 255, 255, 255;
+    --color-accent: 155, 89, 182;
+}

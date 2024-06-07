@@ -1,0 +1,12 @@
+<section id="faq">
+    <h2>{{ page.more_info.title }}</h2>
+    {{ page.more_info.content | markdownify }}
+    <ul>
+        {% for qa in page.faq %}
+        <li class="module box">
+            <h3>{{ qa.question }}</h3>
+            <div class="description">{{ qa.answer | markdownify }}</div>
+        </li>
+        {% endfor %}
+    </ul>
+</section>

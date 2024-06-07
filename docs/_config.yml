@@ -1,0 +1,17 @@
+#title: Aprendizaje por refuerzo y optimización de sistemas
+#tagline: Ben's Awesome Site | A blog dedicated to reviewing cat gifs
+#description: Longer description used for the description meta tag
+#url: "https://etsisi.github.io/micro-rl"
+#author: KNODIS Group
+#repository: etsisi/micro-rl
+#baseurl: "/"
+#lang: es_ES
+
+safe: true
+markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - build-in-docker.sh
+  - README.md
