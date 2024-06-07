@@ -105,7 +105,7 @@ instructors:
     image: https://pbs.twimg.com/profile_images/1618191909041602561/gadNfVji_400x400.jpg
   - name: Francisco Serradilla García
     role: Catedrático de Universidad
-    image: http://www.ahnfmed.uam.es/images/anuncios/Paco-perfil_(002).jpg
+    image: https://i1.rgstatic.net/ii/profile.image/273634388344845-1442250930330_Q512/Francisco-Serradilla.jpg
   - name: Guillermo Iglesias Hernández
     role: Ayudante
     image: https://media.licdn.com/dms/image/D4E03AQFX1OCG6Hbi4A/profile-displayphoto-shrink_100_100/0/1716572637877?e=2147483647&v=beta&t=7arDjkDZxnHax3J9JxX8fz7VqXHhfIR7W86ImOfyFY0
